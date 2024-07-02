@@ -1,24 +1,5 @@
 {
-    params:
-  profileMode:
-    enabled: true
-    title: "<Title>" # optional default will be site title
-    subtitle: "This is subtitle"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
-    buttons:
-      - name: Archive
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/"
-
-  socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+    
     "title":"Wishper",
     "subTitle":"In wishpers,secrets unfold and dreams take flight.",
     "avatarUrl":"https://cdn.linux.do/user_avatar/linux.do/somemings/96/46047_2.png",
