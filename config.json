@@ -1,8 +1,4 @@
 {
-    "title":"Wishper",
-    "subTitle":"In wishpers,secrets unfold and dreams take flight.",
-    "avatarUrl":"https://cdn.linux.do/user_avatar/linux.do/somemings/96/46047_2.png",
-    "GMEEK_VERSION":"last"
     params:
   profileMode:
     enabled: true
@@ -23,9 +19,9 @@
       url: "<link>"
     - name: "<platform 2>"
       url: "<link2>"
-    outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # necessary for search
+    "title":"Wishper",
+    "subTitle":"In wishpers,secrets unfold and dreams take flight.",
+    "avatarUrl":"https://cdn.linux.do/user_avatar/linux.do/somemings/96/46047_2.png",
+    "GMEEK_VERSION":"last"
+    
 }
